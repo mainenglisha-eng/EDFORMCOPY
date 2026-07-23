@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Worksheet Builder",
+  "description": "Crea fichas interactivas a partir de PDFs o imágenes, asígnalas a tus estudiantes y realiza un seguimiento de sus calificaciones en tiempo real.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
